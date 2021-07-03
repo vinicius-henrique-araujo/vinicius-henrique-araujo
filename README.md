@@ -41,10 +41,11 @@
 
 <!-- Skills -->
 Estão aqui algumas das minhas habilidades e conhecimentos como Desenvolvedor Front-end:
-- 💻 **Front-end**: HTML, CSS (Media Query, Animation, Flexbox, Grid), JavaScript (jQuery, ES6+, Typescript), Bootstrap.
-- 🔠 **Linguagens**: HTML/CSS, JavaScript, ES6+, Typescript.
+- 💻 **Front-end**: HTML, CSS (Media Query, Animation, Flexbox, Grid), JavaScript (jQuery, ES6+), Bootstrap.
+- 💻 **Back-end**: Node.js,sequelize.
+- 🔠 **Linguagens**: JavaScript, ES6+.
 - 🆚 **Versionamento**: Git.
 - 🧪 **Testes e automatização**: NPM e Yarn.
-- 🏗️ **Infraestrutura**: HTTP, Windows 10.
+- 🏗️ **Infraestrutura**: HTTP, Linux.
 - 👷🏻 **Arquitetura**: Rest, Orientação a Objetos.
 - 📈 **Engenharia de Software**: Levantamento de requisitos, UML, Scrum e Kanban.
