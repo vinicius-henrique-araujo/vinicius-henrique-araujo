@@ -22,7 +22,7 @@
 
 👨🏽‍💻 Me chamo **Vincius Hneirque**, tenho 25 anos e sou graduando em Sistemas de Informação. Gosto de tecnologia, IA, games e estou focado na área de **FullStack**.
 
-🚀 Atualmente estou em processo de transição de carreira
+🚀 Atualmente estou em processo de transição de carreira, aprendendo as seguintes tecnologia:
 
 <!-- Languages, libs and frameworks -->
 ![HTML5](https://img.shields.io/badge/-HTML-fff?style=flat&logo=HTML5)&nbsp;
