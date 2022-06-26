@@ -20,7 +20,7 @@
 
 ##  Seja Bem Vindo 😄
 
-👨🏽‍💻 Me chamo **Vincius Hneirque**, tenho 25 anos e sou graduando em Sistemas de Informação. Gosto de tecnologia, IA, games e estou focado na área de **FullStack**.
+👨🏽‍💻 Me chamo **Vincius Hneirque**, tenho 26 anos e sou graduando em Sistemas de Informação. Gosto de tecnologia e estou focado na área de **Back-end**.
 
 🚀 Atualmente estou em processo de transição de carreira, aprendendo as seguintes tecnologia:
 
@@ -43,9 +43,9 @@
 Estão aqui algumas das minhas habilidades e conhecimentos como Desenvolvedor Front-end:
 - 💻 **Front-end**: HTML, CSS (Media Query, Animation, Flexbox, Grid), JavaScript (jQuery, ES6+), Bootstrap.
 - 💻 **Back-end**: Node.js,sequelize.
-- 🔠 **Linguagens**: JavaScript, ES6+.
+- 🔠 **Linguagens**: JavaScript, ES6+, Elixir
 - 🆚 **Versionamento**: Git.
 - 🧪 **Testes e automatização**: NPM e Yarn.
 - 🏗️ **Infraestrutura**: HTTP, Linux.
-- 👷🏻 **Arquitetura**: Rest, Orientação a Objetos.
+- 👷🏻 **Arquitetura**: Rest, Orientação a Objetos  e Funcional.
 - 📈 **Engenharia de Software**: Levantamento de requisitos, UML, Scrum e Kanban.
